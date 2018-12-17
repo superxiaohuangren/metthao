@@ -1,0 +1,16 @@
+rootProject.name = 'parent'
+include 'textson'
+include 'texttext'
+include 'meethaoweb'
+include 'meethao-seconds-producers'
+include 'meethao-seconds-consumers'
+include 'meethao-order-producers'
+include 'meethao-order-consumers'
+include 'meethao-people-producers'
+include 'meethao-people-consumers'
+include 'meethao-login-producers'
+include 'meethao-login-consumers'
+include 'meethao-goods-producers'
+include 'meethao-goods-consumer'
+
+
